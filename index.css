@@ -1,0 +1,37 @@
+   .label{
+       text-align: center;
+       font-size: 18em;
+       color: black;
+       font-style: normal;
+       font-family: 'Courier New', Courier, monospace;
+       font-weight: 300;
+
+      }
+   .container-button{
+      text-align: center;
+
+      }
+    
+    #increaseBtn{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 3em;
+        background-color: aquamarine;
+        border-radius: 15px;
+        cursor: pointer;    
+    }  
+   
+    #resetBtn{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 3em;
+        background-color: aquamarine;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+
+    #decreaseBtn{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 3em;
+        background-color: aquamarine;
+        border-radius: 15px;
+        cursor: pointer;
+    }
